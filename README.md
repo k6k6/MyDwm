@@ -12,7 +12,11 @@ https://github.com/fgheng/vime
 ## 2.Install Dwm
 git clone https://github.com/k6k6/MyDwm.git<br>
 cd dwm<br>
-sudo make clean install<br>
+sudo make clean install
+## 3.安装并配置oh-my-zsh
+sudo pacman -S zsh<br>
+sh -c "$(wget -O- https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"<br>
+chsh -s /bin/zsh
 
 
 
