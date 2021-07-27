@@ -1,2 +1,3 @@
 # MyDwm
-this is my dwm
+This Is My Dwm
+#1 Install Arch
