@@ -1,3 +1,3 @@
 # MyDwm
 This Is My Dwm
-# Install Arch
+## Install Arch
